@@ -12,85 +12,137 @@ Go to Admin -> Pages -> Select Homepage.
 
 ![](./images/homepage-edit.png)
 
-### Hero Banner slider
+### Hero Banner
 
-![](/gerow/images/simple-slider/demo.png)
-
-It's shortcode `simple-slider` in the page content.
-
-![](/gerow/images/simple-slider/shortcode-1.png)
-
-You can set the slider.
-
-![](/gerow/images/simple-slider/shortcode-2.png)
-
-You can add the slider.
-
-![](/gerow/images/simple-slider/add-slider.png)
-
-![](/gerow/images/simple-slider/add-slider-1.png)
-
-![](/gerow/images/simple-slider/add-slider-2.png)
-
-![](/gerow/images/simple-slider/add-slider-3.png)
-
-Now, You can set the slider.
-
-![](/gerow/images/simple-slider/add-slider-4.png)
-
-### Hero banner
-
-![](/gerow/images/hero-banner/demo.png)
+![](./images/hero-banner/demo.png)
 
 It's shortcode `hero-banner` in the page content.
 
-![](/gerow/images/hero-banner/shortcode-1.png)
+![](./images/hero-banner/shortcode-1.png)
 
-![](/gerow/images/hero-banner/shortcode-2.png)
+![](./images/hero-banner/shortcode-2.png)
 
-You can set the title, subtitle, image, background image, button label, button action, platform Google Play, Apple Store, and options styling.
+You can set the title, subtitle, image, background image, button label, button action, and options styling.
+
+### Featured Service Categories
+
+![](./images/featured-service-categories/demo.png)
+
+It's shortcode `featured-service-categories` in the page content.
+
+![](./images/featured-service-categories/shortcode-1.png)
+
+![](./images/featured-service-categories/shortcode-2.png)
+
+You can set the title, subtitle, select service categories, image, background image, and options styling.
+
+### About Us Information
+
+![](./images/about-us-information/demo.png)
+
+It's shortcode `about-us-information` in the page content.
+
+![](./images/about-us-information/shortcode-1.png)
+
+![](./images/about-us-information/shortcode-2.png)
+
+You can set the title, subtitle, image, background, Founded year, Button Label, Button URL and options styling...
 
 ### Brands
 
-![](/gerow/images/brands/demo.png)
+![](./images/brands/demo.png)
 
 It's shortcode `brands` in the page content.
 
-![](/gerow/images/brands/shortcode-1.png)
+![](./images/brands/shortcode-1.png)
 
-![](/gerow/images/brands/shortcode-2.png)
+![](./images/brands/shortcode-2.png)
 
 You can set the title, subtitle, add new branch, and options styling.
 
 ### Services
 
-![](/gerow/images/services/demo.png)
+![](./images/featured-services/demo.png)
 
-It's shortcode `services` in the page content.
+It's shortcode `featured-services` in the page content.
 
-![](/gerow/images/services/shortcode-1.png)
+![](./images/featured-services/shortcode-1.png)
 
-![](/gerow/images/services/shortcode-2.png)
-
-You can set the title, subtitle, image, background, services, and options styling.
-
-### Request quote
-
-![](/gerow/images/request-quote/demo.png)
-
-It's shortcode `request-quote` in the page content.
-
-![](/gerow/images/request-quote/shortcode-1.png)
-
-![](/gerow/images/request-quote/shortcode-2.png)
-
-![](/gerow/images/request-quote/shortcode-3.png)
+![](./images/featured-services/shortcode-2.png)
 
 You can set the title, subtitle, image, background, services, and options styling.
 
-You can custom field in form (create or update).
+### Company Overview
 
-![](/gerow/images/request-quote/custom-field.png)
+![](./images/company-overview/demo.png)
+
+It's shortcode `company-overview` in the page content.
+
+![](./images/company-overview/shortcode-1.png)
+
+![](./images/company-overview/shortcode-2.png)
+
+You can set the title, subtitle, image, background, author, button label, button URL, and options styling...
+
+### Intro Video
+
+![](./images/intro-video/demo.png)
+
+It's shortcode `intro-video` in the page content.
+
+![](./images/intro-video/shortcode-1.png)
+
+![](./images/intro-video/shortcode-2.png)
+
+You can set the title, subtitle, image, background, Video YouTube URL, progress bar using tabs and options styling...
+
+### Featured Projects
+
+![](./images/featured-projects/demo.png)
+
+It's shortcode `featured-projects` in the page content.
+
+![](./images/featured-projects/shortcode-1.png)
+
+![](./images/featured-projects/shortcode-2.png)
+
+You can set the title, subtitle, image, background, projects, and options styling.
+
+### Contact Block
+
+![](./images/contact-block/demo.png)
+
+It's shortcode `contact-block` in the page content.
+
+![](./images/contact-block/shortcode-1.png)
+
+![](./images/contact-block/shortcode-2.png)
+
+You can set the title, subtitle, image, background, hotline, button label, button URL, and options styling.
+
+### Teams
+
+![](./images/teams/demo.png)
+
+It's shortcode `teams` in the page content.
+
+![](./images/teams/shortcode-1.png)
+
+![](./images/teams/shortcode-2.png)
+
+You can set the title, subtitle, image, background, teams, and options styling.
+
+### Testimonials
+
+![](./images/testimonials/demo.png)
+
+It's shortcode `testimonials` in the page content.
+
+![](./images/testimonials/shortcode-1.png)
+
+![](./images/testimonials/shortcode-2.png)
+
+You can set the title, subtitle, image, background, limit testimonials, and options styling.
 
 ### Pricing
 
@@ -98,77 +150,26 @@ You can custom field in form (create or update).
 
 It's shortcode `pricing` in the page content.
 
-![](/gerow/images/pricing/shortcode-1.png)
+![](./images/pricing/shortcode-1.png)
 
-![](/gerow/images/pricing/shortcode-2.png)
+![](./images/pricing/shortcode-2.png)
 
-You can set the title, subtitle, image, background, services, and options styling.
+You can set the title, subtitle, image, background, packages, and options styling.
 
 You can custom features and information in packages.
 
 ![](/gerow/images/pricing/custom-package.png)
 
-### How It Works
-
-![](/gerow/images/how-it-works/demo.png)
-
-It's shortcode `how-it-works` in the page content.
-
-![](/gerow/images/how-it-works/shortcode-1.png)
-
-![](/gerow/images/how-it-works/shortcode-2.png)
-
-![](/gerow/images/how-it-works/shortcode-3.png)
-
-You can set the title, subtitle, image, background, and options styling.
-
-### Testimonials
-
-![](/gerow/images/testimonials/demo.png)
-
-It's shortcode `testimonials` in the page content.
-
-You also can custom items and more attributes in the `testimonials` shortcode.
-![](/gerow/images/testimonials/shortcode-1.png)
-
-![](/gerow/images/testimonials/shortcode-2.png)
-
-### Projects
-
-![](/gerow/images/projects/demo.png)
-
-You also can custom items and more attributes in the `projects` shortcode.
-
-![](/gerow/images/projects/shortcode-1.png)
-
-### FAQ's
-
-![](/gerow/images/faqs/demo.png)
-
-It's shortcode `faqs` in the page content.
-
-You also can custom items and more attributes in the `faqs` shortcode.
-
-![](/gerow/images/faqs/shortcode-1.png)
-
-### Call to action
-
-![](/gerow/images/call-to-action/demo.png)
-
-It's shortcode `call-to-action` in the page content.
-
-You also can custom items and more attributes in the `call-to-action` shortcode.
-
-![](/gerow/images/call-to-action/shortcode-1.png)
-
 ### News
 
-![](/gerow/images/news/demo.png)
+![](./images/news/demo.png)
 
 It's shortcode `news` in the page content.
 
+![](./images/news/shortcode-1.png)
+
+![](./images/news/shortcode-2.png)
+
 You also can custom items and more attributes in the `news` shortcode.
 
-![](/gerow/images/news/shortcode-1.png)
-
-There are have alot of shortcodes in the theme. You can check them in the **Shortcode** dropdown menu in the editor.
+There are have a lot of shortcodes in the theme. You can check them in the **Shortcode** dropdown menu in the editor.

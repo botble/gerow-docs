@@ -1,17 +1,17 @@
-# GeRow - Laravel Business Consulting
+# Gerow - Laravel Business Consulting
 
 ## Introduction
 
-GeRow - Laravel Business Consulting script using Laravel 9.x. It's a product built on Botble CMS.
+Gerow - Laravel Business Consulting script using Laravel 9.x. It's a product built on Botble CMS.
 
 Created: _Coming soon_
 
-By: [Archi Elite](https://archielite.com)
+By: [Botble](https://botble.com)
 
-Email: [contact@archielite.com](mailto:contact@archielite.com)
+Email: [contact@botble.com](mailto:contact@botble.com)
 
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file,
-please feel free to email via my user page contact form [here](https://codecanyon.net.net/user/archielite) for quickly support. Thank you so much!
+please feel free to email via my user page contact form [here](https://codecanyon.net/user/botble) for quickly support. Thank you so much!
 
 ## Demo
 
@@ -34,6 +34,6 @@ Password: `159357`
 - Fully Responsive: Compatible with all screen resolutions.
 - Coding Standard: All code follow coding standards PSR-12 and best practices.
 
-## Archi Elite Team
+## Botble Team
 
-Visit us at [https://archielite.com](archielite.com)
+Visit us at [https://botble.com](botble.com)

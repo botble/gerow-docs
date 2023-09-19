@@ -36,7 +36,7 @@ You can set primary, secondary, text, border color, font, background,...
 
 Edit **Cookie consent**"
 
-![](./images/theme-options/10.png)
+![](./images/theme-options/7.png)
 
 Go to Admin -> Appearance -> Theme options -> Cookie consent tab
 

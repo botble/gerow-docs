@@ -158,7 +158,7 @@ You can set the title, subtitle, image, background, packages, and options stylin
 
 You can custom features and information in packages.
 
-![](/gerow/images/pricing/custom-package.png)
+![](./images/pricing/custom-package.png)
 
 ### News
 

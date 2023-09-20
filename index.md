@@ -4,7 +4,7 @@
 
 Gerow - Laravel Business Consulting script using Laravel 9.x. It's a product built on Botble CMS.
 
-Created: _Coming soon_
+Created: `2023-09-20`
 
 By: [Botble](https://botble.com)
 

@@ -28,7 +28,6 @@ export default [
             { text: 'Custom CSS/JS', link: '/gerow/usage-custom-css-js' },
             { text: 'Translation', link: '/gerow/usage-translation' },
             { text: 'Multi-language', link: '/gerow/usage-multi-language' },
-            { text: 'Location', link: '/gerow/usage-location' },
             { text: 'Google Analytics', link: '/gerow/usage-analytics' },
             { text: 'Media - Setup Amazon S3', link: '/gerow/usage-media-s3' },
             { text: 'Media - Setup BunnyCDN', link: '/gerow/usage-media-bunnycdn' },

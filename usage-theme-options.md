@@ -16,9 +16,15 @@ Customize header
 
 ![](./images/theme-options/3.png)
 
-Edit **Logo** and **Favicon**. Go to Admin -> Appearance -> Theme options -> Logo tab.
+Edit **Favicon**. Go to Admin -> Appearance -> Theme options -> Logo tab.
 
 ![](./images/theme-options/4.png)
+
+And **Logo** in header is widget. You can change it. Go to Admin -> Appearance -> Widgets.
+
+![](./images/widgets/10.png)
+
+And Header have many styles. You can view detail in Widget Tabs.
 
 ## Footer
 

@@ -106,11 +106,13 @@ You can modify it in `Admin` -> `Appearance` -> `Widgets` -> **Footer sidebar**
 
 ### Custom Menu
 
-![](./images/widgets/16.png)
+![](./images/widgets/17.png)
 
 You can modify it in `Admin` -> `Appearance` -> `Widgets` -> **Footer sidebar**
 
-![](./images/widgets/17.png)
+![](./images/widgets/16.png)
+
+![](./images/widgets/35.png)
 
 ### Newsletter
 

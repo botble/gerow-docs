@@ -24,7 +24,6 @@ export default [
             { text: 'Setup menus',  link: '/gerow/usage-menus' },
             { text: 'Setup theme options',  link: '/gerow/usage-theme-options' },
             { text: 'Widgets', link: '/gerow/usage-widgets' },
-            { text: 'Rename theme', link: '/gerow/theme-rename' },
             { text: 'Custom CSS/JS', link: '/gerow/usage-custom-css-js' },
             { text: 'Translation', link: '/gerow/usage-translation' },
             { text: 'Multi-language', link: '/gerow/usage-multi-language' },

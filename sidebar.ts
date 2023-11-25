@@ -32,6 +32,7 @@ export default [
             { text: 'Media - Setup BunnyCDN', link: '/gerow/usage-media-bunnycdn' },
             { text: 'Media - Setup Wasabi', link: '/gerow/usage-media-wasabi' },
             { text: 'Setup email', link: '/gerow/usage-email' },
+            { text: 'Setup cronjob', link: '/gerow/cronjob' },
         ],
     },
     {

@@ -33,6 +33,7 @@ export default [
             { text: 'Media - Setup Wasabi', link: '/gerow/usage-media-wasabi' },
             { text: 'Setup email', link: '/gerow/usage-email' },
             { text: 'Setup cronjob', link: '/gerow/cronjob' },
+            { text: 'Newsletter', link: '/gerow/usage-newsletter' },
         ],
     },
     {

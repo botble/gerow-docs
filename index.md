@@ -36,4 +36,4 @@ Password: `12345678`
 
 ## Botble Team
 
-Visit us at [https://botble.com](botble.com)
+Visit us at [https://botble.com](https://botble.com)
